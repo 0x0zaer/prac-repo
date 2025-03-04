@@ -1,0 +1,12 @@
+.h1{
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+.img{
+    text-align: center;
+    background-color: gold;
+    display: flex;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 50%;
+}
